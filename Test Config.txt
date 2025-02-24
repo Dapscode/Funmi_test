@@ -1,0 +1,7 @@
+NGNIX Config
+==============
+
+1. Create a Server Block Configuration
+Create a new file for your subdomain configuration. For example, on Ubuntu you might create:
+
+ - sudo nano /etc/nginx/sites-available/dev.tracit.ng
